@@ -18,5 +18,7 @@ Esse repositório foi desenvolvido durante a trilha de react da rocketseat. Note
 - Sonner
 - Lucide React
 
-# Projeto desenvolvido:
+## Prévia:
 ![Notes NLW Expert](./src/assets/image/preview.jpg)
+
+<a href="https://project-notes-nlw-expert.vercel.app/" target="_blank">Clique aqui para acesso direto. </a>
